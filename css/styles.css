@@ -263,10 +263,7 @@ ul {
 
 
 
-@media(min-width: 900px) {
-    body {
-        padding: 0 4em;
-    }
+@media(min-width: 700px) {
     .contactos-wrap {
         display: grid;
         grid-template-columns: 2fr 1fr;
